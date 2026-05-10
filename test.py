@@ -74,3 +74,6 @@ if __name__ == "__main__":
     target = 100
     result = binary_search_recursive(sorted_array, target)
     print(f"Recursive: Target {target} found at index {result}")
+
+
+print("Testing completed.")
